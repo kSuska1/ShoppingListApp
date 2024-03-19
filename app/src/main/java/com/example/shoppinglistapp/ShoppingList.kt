@@ -39,16 +39,9 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.room.ColumnInfo
-import androidx.room.Entity
-import androidx.room.PrimaryKey
 
-@Entity(tableName = "item-table")
-data class ShoppingItem(@PrimaryKey(autoGenerate = true)
-                        val id: Int,
-                        @ColumnInfo(name = "product-name")
+data class ShoppingItem(val id: Int,
                         var name: String,
-                        @ColumnInfo(name = "product-amt")
                         var amount: Int,
                         var isEditing: Boolean = false
 )
