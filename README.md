@@ -45,5 +45,5 @@ git clone https://github.com/kSuska1/ShoppingListApp.git
 
 ## 🙋🏻‍♀️ Feel free to contact me
 If you encounter any issues or have questions, please feel free to contact me via [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolina1101suska@gmail.com)
- or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twójprofillinkedin)
+ or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-suska)
 .
