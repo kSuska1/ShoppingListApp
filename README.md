@@ -22,9 +22,15 @@ The goal of the application is to facilitate the organization and planning of sh
 
 &nbsp;
  
-## 🔗 See also
+## 📺  Screenshots
 
-Are you interested in **techonologyName** and **technologyName**? See my other project [Interesting Project Name](https://devmentor.pl/podcast).
+<div style="display: flex;">
+  <img alt='screen1' src="screenshots/screenshot1.png" width="33%" style="margin: 10px; padding: 10px" />
+  <img alt='screen2' src="screenshots/screenshot2.png" width="33%" style="margin: 10px; padding: 10px" />
+  <img alt='screen3' src="screenshots/screenshot3.png" width="33%" />
+</div>
+
+
 
 &nbsp;
  
@@ -64,7 +70,7 @@ more code :)
  &nbsp;
  
 - five - example with a screenshot
-<img alt='what it is' src="https://via.placeholder.com/500x200" />
+
 
 
 &nbsp;
