@@ -25,9 +25,9 @@ The goal of the application is to facilitate the organization and planning of sh
 ## 📺  Screenshots
 
 <div style="display: flex;">
-  <img alt='screen1' src="screenshots/screenshot1.png" width="31%" style="margin: 10px; padding: 10px" />
-  <img alt='screen2' src="screenshots/screenshot2.png" width="31%" style="margin: 10px; padding: 10px" />
-  <img alt='screen3' src="screenshots/screenshot3.png" width="31%" />
+  <img alt='screen1' src="screenshots/screenshot1.png" width="32%" style="margin: 10px; padding: 10px" />
+  <img alt='screen2' src="screenshots/screenshot2.png" width="32%" style="margin: 10px; padding: 10px" />
+  <img alt='screen3' src="screenshots/screenshot3.png" width="32%" />
 </div>
 
 
