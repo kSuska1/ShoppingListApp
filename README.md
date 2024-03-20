@@ -1,7 +1,5 @@
 # Shopping List App
 
-See the live version of [Project Name](https://devmentor.pl).
-
 The Shopping List app is a simple tool for managing the list of products you want to buy while shopping. 
 The goal of the application is to facilitate the organization and planning of shopping by allowing users to create, edit, and delete items on the shopping list.
 
@@ -30,73 +28,22 @@ The goal of the application is to facilitate the organization and planning of sh
   <img alt='screen3' src="screenshots/screenshot3.png" width="32%" />
 </div>
 
-
-
 &nbsp;
  
 ## 💿 Installation
 
-The project uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
-
-
-&nbsp;
- 
-## 🤔 Solutions provided in the project
-
-- one
-
- &nbsp;
-
-- two:
+1. Clone this repository to your local machine:
 ```
-some example code
-
-more code :)
+git clone https://github.com/kSuska1/ShoppingListApp.git
 ```
- &nbsp;
+2. Open Android Studio and select "Open an existing Android Studio project." Navigate to the location where you cloned the repository and select the folder containing the build.gradle file.
 
-- three
-
-| Issue                     | Solution                       |     |
-| ------------------------- | -----------------------------  | --- |
-| one                       | `short code example`           |     |
-| two                       | `short code example`           |     |
-| thre                      | `short code example`           |     |
-
- &nbsp;
- 
-- four - some shortcut <kbd>Ctrl</kbd> + <kbd>C</kbd>
-
- &nbsp;
- 
-- five - example with a screenshot
-
+3. After opening the project in Android Studio, build the project and run the application on an emulator or a target device.
 
 
 &nbsp;
 
-## 💭 Conclusions for future projects
-
-I would like to improve...
-
-#### This is the first issue:
-```
-and this is a code example
-```
-
-#### This is the second issue:
-```
-and this is a code example
-```
-
-
-&nbsp;
-
-## 🙋‍♂️ Feel free to contact me
-Write sth nice ;) Find me on...
-
-
-&nbsp;
-
-## 👏 Thanks / Special thanks / Credits
-Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me with this task and for code review.
+## 🙋🏻‍♀️ Feel free to contact me
+If you encounter any issues or have questions, please feel free to contact me via [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolina1101suska@gmail.com)
+ or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twójprofillinkedin)
+.
